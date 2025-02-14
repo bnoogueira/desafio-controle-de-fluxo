@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Contador {
     public static void main(String[] args) {
+        //Método de entrada do usuário
         Scanner terminal = new Scanner(System.in);
 
         //Entradas do usuário para a realização da comparação
